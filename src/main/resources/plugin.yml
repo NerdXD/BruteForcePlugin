@@ -1,0 +1,9 @@
+name: BruteforceHacking
+version: '${project.version}'
+main: com.nerdxd.bruteforce.Main
+api-version: 1.18
+authors: [ NerdXD ]
+description: An example of a brute force attack by hackers (not exactly how it is done but close)
+commands:
+  guess:
+    description: /guess <password>
